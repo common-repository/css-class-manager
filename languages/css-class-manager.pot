@@ -1,0 +1,47 @@
+# Copyright (C) 2024 Edi Amin
+# This file is distributed under the GPL-3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: CSS Class Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/css-class-manager\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-05-25T10:53:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: css-class-manager\n"
+
+#. Plugin Name of the plugin
+msgid "CSS Class Manager"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/ediamin/css-class-manager"
+msgstr ""
+
+#. Description of the plugin
+msgid "An advanced autocomplete additional css class control for your blocks."
+msgstr ""
+
+#. Author of the plugin
+msgid "Edi Amin"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/ediamin"
+msgstr ""
+
+#: includes/Settings.php:28
+msgid "List of user defined class names"
+msgstr ""
+
+#: includes/Settings.php:39
+msgid "CSS class name"
+msgstr ""
+
+#: includes/Settings.php:44
+msgid "Description of the class name"
+msgstr ""
